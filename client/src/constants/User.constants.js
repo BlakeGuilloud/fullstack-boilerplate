@@ -1,0 +1,2 @@
+export const RECEIVE_USERS = 'USERS/RECEIVE_USERS';
+export const REQUEST_DATA  = 'USERS/REQUEST_DATA';
